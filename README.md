@@ -1,5 +1,3 @@
 - 👋 Hello, I’m @tomskybyte
 - 👀 I’m interested in science and technology
-- 🌱 Currently learning Dart with Flutter
-- 💞️ Looking to collaborate on any Flutter projects
 - 📫 To reach me send me a message here
